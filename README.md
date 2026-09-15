@@ -33,11 +33,13 @@ A simple and interactive web-based Number Guessing Game built using HTML, CSS, a
 
 ## Project Structure
 
+```text
 NumberGuessingGame/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 ## Learning Outcomes
 
